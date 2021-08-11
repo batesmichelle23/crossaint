@@ -5,6 +5,7 @@
 h1, h3{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: var(--font-color);
+    text-align: center;
 }
 
 
@@ -16,4 +17,10 @@ html, body
 
 body {
     background:  linear-gradient(to top, #c79081 0%, #dfa579 100%);
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    width: 400px;
 }
