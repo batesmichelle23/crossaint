@@ -39,3 +39,8 @@ img{
 .email:hover{
     color: purple;
 }
+
+ul{
+    color: rgb(53, 37, 8);
+    font-weight: bold;
+}
