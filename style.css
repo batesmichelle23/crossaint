@@ -2,7 +2,7 @@
     --font-color: #ffffff;
 }
 
-h1, h3,{
+h1, h3{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: var(--font-color);
 }
@@ -15,5 +15,5 @@ html, body
 }
 
 body {
-    background: no-repeat  linear-gradient(to top, #c79081 0%, #dfa579 100%);
+    background:  linear-gradient(to top, #c79081 0%, #dfa579 100%);
 }
